@@ -1,0 +1,6 @@
+module Pods_demoRNAanimation_demoRNAanimationTests {
+  umbrella header "Pods-demoRNAanimation-demoRNAanimationTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
